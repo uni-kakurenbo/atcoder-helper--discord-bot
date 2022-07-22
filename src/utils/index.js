@@ -3,4 +3,4 @@ module.exports = {
   Colors: require("./Colors.js"),
 };
 
-require("../../../../utils/ColorableConsole");
+require("./ColorableConsole");
